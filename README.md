@@ -111,16 +111,6 @@ User action
 
 ---
 
-## 📈 Roadmap
-
-- [x] **Phase 1** — Vanilla JS Prototype
-- [ ] **Phase 2** — ⚡ Current: React + TypeScript + Tailwind
-- [ ] **Phase 3** — Node.js + Express REST API
-- [ ] **Phase 4** — MongoDB Atlas integration
-- [ ] **Phase 5** — Authentication + Admin panel
-
----
-
 ## 👨‍💻 About the Developer
 
 **Chaiyawat Jenvasu (Asha)**  
